@@ -12,4 +12,6 @@ import lombok.NoArgsConstructor;
 public class E02 {
     private int id;
     private int price;
+    private int position;
+    private String lastname;
 }
